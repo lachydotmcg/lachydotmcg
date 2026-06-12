@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130 90" width="130" height="90" role="img" aria-label="Clawde the pixel crab">
+  <style>
+    .o { fill: #d97745; }
+    .e { fill: #050505; animation: blink 4.5s ease-in-out infinite; }
+    .la { animation: walk-a 0.65s ease-in-out infinite; }
+    .lb { animation: walk-b 0.65s ease-in-out infinite; }
+    .crab { animation: bob 2.2s ease-in-out infinite; }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0px); }
+      50%       { transform: translateY(-3px); }
+    }
+    @keyframes blink {
+      0%, 82%, 100% { fill: #050505; }
+      86%, 90%      { fill: #d97745; }
+    }
+    @keyframes walk-a {
+      0%, 100% { transform: translateY(0px); }
+      50%      { transform: translateY(-4px); }
+    }
+    @keyframes walk-b {
+      0%, 100% { transform: translateY(-4px); }
+      50%      { transform: translateY(0px); }
+    }
+  </style>
+  <g class="crab">
+    <!-- row 0: cols 2–10 (top of head) -->
+    <rect class="o" x="20" y="0"  width="90" height="10"/>
+    <!-- row 1: face — eyes at col 3 (x=30) and col 9 (x=90) -->
+    <rect class="o" x="20" y="10" width="10" height="10"/>
+    <rect class="e" x="30" y="10" width="10" height="10"/>
+    <rect class="o" x="40" y="10" width="50" height="10"/>
+    <rect class="e" x="90" y="10" width="10" height="10"/>
+    <rect class="o" x="100" y="10" width="10" height="10"/>
+    <!-- row 2: full width (claws) -->
+    <rect class="o" x="0"  y="20" width="130" height="10"/>
+    <!-- row 3: full width (body) -->
+    <rect class="o" x="0"  y="30" width="130" height="10"/>
+    <!-- row 4: cols 2–10 -->
+    <rect class="o" x="20" y="40" width="90" height="10"/>
+    <!-- row 5: cols 2–10 -->
+    <rect class="o" x="20" y="50" width="90" height="10"/>
+    <!-- legs: cols 2, 4, 8, 10 — rows 6 & 7 — alternating pairs -->
+    <g class="la">
+      <rect class="o" x="20" y="60" width="10" height="10"/>
+      <rect class="o" x="20" y="70" width="10" height="10"/>
+    </g>
+    <g class="lb">
+      <rect class="o" x="40" y="60" width="10" height="10"/>
+      <rect class="o" x="40" y="70" width="10" height="10"/>
+    </g>
+    <g class="la">
+      <rect class="o" x="80" y="60" width="10" height="10"/>
+      <rect class="o" x="80" y="70" width="10" height="10"/>
+    </g>
+    <g class="lb">
+      <rect class="o" x="100" y="60" width="10" height="10"/>
+      <rect class="o" x="100" y="70" width="10" height="10"/>
+    </g>
+  </g>
+</svg>
