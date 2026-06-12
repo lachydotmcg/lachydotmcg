@@ -10,7 +10,7 @@
 
 Aspiring AI Engineer from Victoria. I build AI-powered tools - agents, SaaS, CLIs - mostly solo.
 
-Into philosophy and psychology - the bigger questions around where AI is taking us. Portfolio coming soon.
+Into philosophy and psychology - the bigger questions around where AI is taking us. See what I'm up to at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
 
 Big fan of Anthropic and Dario! :)
 
@@ -80,7 +80,8 @@ Local Node.js server + Discord bot for managing all my Claude Code agents from a
 
 ## links
 
-[![Portfolio](https://img.shields.io/badge/lachysweb.dev-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysweb.dev)
+[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysportfolio.netlify.app)
+[![Web Dev](https://img.shields.io/badge/lachysweb.dev-555555?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysweb.dev)
 [![Pheme](https://img.shields.io/badge/phemenews.netlify.app-D97745?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phemenews.netlify.app)
 [![Argus](https://img.shields.io/badge/argus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachydotmcg/argus)
 [![Pheme CLI](https://img.shields.io/badge/pheme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachydotmcg/pheme)
