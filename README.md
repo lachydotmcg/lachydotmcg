@@ -2,17 +2,17 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;AI+engineer+from+Mornington+Peninsula;building+tools+that+shouldn%27t+exist;running+agents+while+I+sleep;thinking+about+what+comes+after)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;building+tools+that+shouldn%27t+exist;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-18, Mornington Peninsula, Victoria. I build AI-powered tools — agents, SaaS, CLIs — mostly solo.
+Aspiring AI Engineer from Victoria. I build AI-powered tools - agents, SaaS, CLIs - mostly solo.
 
-Interested in more than just the code: the psychology of human-AI interaction, what widespread AI adoption does to labour markets and institutions, how people will adapt. Writing about it as I go at [lachysweb.dev](https://lachysweb.dev).
+Into philosophy and psychology - the bigger questions around where AI is taking us. Portfolio coming soon.
 
-Big fan of what [Anthropic](https://anthropic.com) is doing.
+Big fan of Anthropic and Dario! :)
 
 ---
 
@@ -20,12 +20,12 @@ Big fan of what [Anthropic](https://anthropic.com) is doing.
 
 ### [AID Helpdesk](https://github.com/lachydotmcg/ad-helpdesk)
 
-Manage Active Directory from any browser — no VPN, no open ports. IT admins submit helpdesk requests in plain English; the built-in AI assistant (Claude Haiku, named Janus) resolves them automatically. A Windows agent polls outbound HTTPS so it works behind any NAT. Built for schools and SMBs.
+Manage Active Directory from any browser - no VPN, no open ports. IT admins submit helpdesk requests in plain English; the built-in AI assistant (Claude Haiku, named Janus) resolves them automatically. A Windows agent polls outbound HTTPS so it works behind any NAT. Built for schools and SMBs.
 
 <table>
   <tr>
     <td align="center"><img src="screenshots/dashboard-ad.png" width="250" alt="Dashboard"/><br/><sub>Dashboard</sub></td>
-    <td align="center"><img src="screenshots/assistant-ad.png" width="250" alt="Janus — AI Assistant"/><br/><sub>Janus — AI Assistant</sub></td>
+    <td align="center"><img src="screenshots/assistant-ad.png" width="250" alt="Janus - AI Assistant"/><br/><sub>Janus - AI Assistant</sub></td>
     <td align="center"><img src="screenshots/ticket-ad.png" width="250" alt="Auto-resolve ticket"/><br/><sub>Auto-resolve ticket</sub></td>
   </tr>
 </table>
@@ -36,7 +36,7 @@ Manage Active Directory from any browser — no VPN, no open ports. IT admins su
 
 ### [Pheme](https://github.com/lachydotmcg/pheme) · [phemenews.netlify.app](https://phemenews.netlify.app)
 
-Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounded daily digests delivered to your terminal, a file, or your inbox. Powered by Gemini with Google Search grounding — sourced and current. Named after the Greek goddess of rumour and news.
+Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounded daily digests delivered to your terminal, a file, or your inbox. Powered by Gemini with Google Search grounding, sourced and current. Named after the Greek goddess of rumour and news.
 
 <table>
   <tr>
@@ -66,11 +66,11 @@ Self-OSINT footprint scanner. Checks your username across 28 platforms asynchron
 
 ### AI Command Center
 
-Local Node.js server + Discord bot for managing all my Claude Code agents from anywhere, including mobile — via Cloudflare tunnel. Reads from Obsidian so agents share context across sessions. Yes, this actually happened:
+Local Node.js server + Discord bot for managing all my Claude Code agents from anywhere, including mobile, via Cloudflare tunnel. Reads from Obsidian so agents share context across sessions. Yes, this actually happened:
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/cheeky-acc.png" width="520" alt="Jarvis sends a cheeky monkey GIF after deleting its instructions file"/><br/><sub>Jarvis being Jarvis (it deleted its own instructions file — false alarm)</sub></td>
+    <td align="center"><img src="screenshots/cheeky-acc.png" width="520" alt="Jarvis sends a cheeky monkey GIF after deleting its instructions file"/><br/><sub>Jarvis being Jarvis (it deleted its own instructions file - false alarm)</sub></td>
   </tr>
 </table>
 
