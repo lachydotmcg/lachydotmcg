@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;named+a+sheep+jeb_.+still+cycling.;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;jeb_;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
 
 </div>
 
@@ -50,7 +50,7 @@ Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounde
 
 ---
 
-### <img src="screenshots/argus.png" height="26" align="center" alt=""/> [Argus](https://github.com/lachydotmcg/argus) · [Argus MCP](https://github.com/lachydotmcg/argus-mcp)
+### <img src="screenshots/argus.png" height="26" align="center" alt=""/> [Argus](https://github.com/lachydotmcg/argus) · [Argus MCP](https://github.com/lachydotmcg/argus-mcp) · [Supargus](https://supargus.netlify.app)
 
 Self-OSINT footprint scanner. Checks your username across 28 platforms asynchronously, then runs Gemini 2.0 Flash with live Google Search grounding to surface web intelligence about your digital presence. Outputs a standalone dark-themed HTML report. Scan yourself before someone else does.
 
