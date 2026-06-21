@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;building+tools+that+shouldn%27t+exist;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;named+a+sheep+jeb_.+still+cycling.;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,7 +18,7 @@ Big fan of Anthropic and Dario! :)
 
 ## what I'm building
 
-### [AID Helpdesk](https://github.com/lachydotmcg/ad-helpdesk)
+### <img src="screenshots/ad-helpdesk.png" height="26" align="center" alt=""/> [AID Helpdesk](https://github.com/lachydotmcg/ad-helpdesk)
 
 Manage Active Directory from any browser - no VPN, no open ports. IT admins submit helpdesk requests in plain English; the built-in AI assistant (Claude Haiku, named Janus) resolves them automatically. A Windows agent polls outbound HTTPS so it works behind any NAT. Built for schools and SMBs.
 
@@ -34,7 +34,7 @@ Manage Active Directory from any browser - no VPN, no open ports. IT admins subm
 
 ---
 
-### [Pheme](https://github.com/lachydotmcg/pheme) · [phemenews.netlify.app](https://phemenews.netlify.app)
+### <img src="screenshots/pheme.png" height="26" align="center" alt=""/> [Pheme](https://github.com/lachydotmcg/pheme) · [phemenews.netlify.app](https://phemenews.netlify.app)
 
 Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounded daily digests delivered to your terminal, a file, or your inbox. Powered by Gemini with Google Search grounding, sourced and current. Named after the Greek goddess of rumour and news.
 
@@ -50,7 +50,7 @@ Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounde
 
 ---
 
-### [Argus](https://github.com/lachydotmcg/argus)
+### <img src="screenshots/argus.png" height="26" align="center" alt=""/> Argus
 
 Self-OSINT footprint scanner. Checks your username across 28 platforms asynchronously, then runs Gemini 2.0 Flash with live Google Search grounding to surface web intelligence about your digital presence. Outputs a standalone dark-themed HTML report. Scan yourself before someone else does.
 
@@ -61,6 +61,12 @@ Self-OSINT footprint scanner. Checks your username across 28 platforms asynchron
 </table>
 
 `Python` `asyncio` `aiohttp` `Gemini` `Rich`
+
+**[Argus](https://github.com/lachydotmcg/argus)** — the original CLI scanner.
+
+**Argus MCP** — everything Argus does, now as an MCP server. Any MCP-compatible client can run OSINT scans as a tool call. Point your agents at it.
+
+**[Supargus](https://supargus.netlify.app)** — the next layer. Checks if your personal data is being sold by data brokers, and whether your IP is being used as a residential proxy without your knowledge. Browser-first dashboard, no install required.
 
 ---
 
@@ -75,6 +81,10 @@ Local Node.js server + Discord bot for managing all my Claude Code agents from a
 </table>
 
 `Node.js` `Express` `Discord.js` `Cloudflare Tunnel` `Obsidian`
+
+---
+
+there's more at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app) — Socra (local AI study assistant, live school pilot), slopsec (Claude Code security audit skill), Metis (LLM benchmarking), and a MAME arcade cabinet that's very much in progress.
 
 ---
 
