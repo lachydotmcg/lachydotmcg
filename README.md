@@ -50,7 +50,7 @@ Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounde
 
 ---
 
-### <img src="screenshots/argus.png" height="26" align="center" alt=""/> Argus
+### <img src="screenshots/argus.png" height="26" align="center" alt=""/> [Argus](https://github.com/lachydotmcg/argus) · [Argus MCP](https://github.com/lachydotmcg/argus-mcp)
 
 Self-OSINT footprint scanner. Checks your username across 28 platforms asynchronously, then runs Gemini 2.0 Flash with live Google Search grounding to surface web intelligence about your digital presence. Outputs a standalone dark-themed HTML report. Scan yourself before someone else does.
 
@@ -62,15 +62,9 @@ Self-OSINT footprint scanner. Checks your username across 28 platforms asynchron
 
 `Python` `asyncio` `aiohttp` `Gemini` `Rich`
 
-**[Argus](https://github.com/lachydotmcg/argus)** — the original CLI scanner.
-
-**Argus MCP** — everything Argus does, now as an MCP server. Any MCP-compatible client can run OSINT scans as a tool call. Point your agents at it.
-
-**[Supargus](https://supargus.netlify.app)** — the next layer. Checks if your personal data is being sold by data brokers, and whether your IP is being used as a residential proxy without your knowledge. Browser-first dashboard, no install required.
-
 ---
 
-### AI Command Center
+### [AI Command Center](https://github.com/lachydotmcg/aid-command-center)
 
 Local Node.js server + Discord bot for managing all my Claude Code agents from anywhere, including mobile, via Cloudflare tunnel. Reads from Obsidian so agents share context across sessions. Yes, this actually happened:
 
@@ -81,10 +75,6 @@ Local Node.js server + Discord bot for managing all my Claude Code agents from a
 </table>
 
 `Node.js` `Express` `Discord.js` `Cloudflare Tunnel` `Obsidian`
-
----
-
-there's more at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app) — Socra (local AI study assistant, live school pilot), slopsec (Claude Code security audit skill), Metis (LLM benchmarking), and a MAME arcade cabinet that's very much in progress.
 
 ---
 
