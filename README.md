@@ -10,7 +10,7 @@
 
 Aspiring AI Engineer from Victoria. I build AI-powered tools - agents, SaaS, CLIs - mostly solo.
 
-Into philosophy and psychology - the bigger questions around where AI is taking us. See what I'm up to at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
+See what I'm up to at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
 
 Big fan of Anthropic and Dario! :)
 
