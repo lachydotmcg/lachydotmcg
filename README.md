@@ -12,8 +12,6 @@ Aspiring AI Engineer from Victoria. I build AI-powered tools - agents, SaaS, CLI
 
 See what I'm up to at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
 
-Big fan of Anthropic and Dario! :)
-
 ---
 
 ## what I'm building
