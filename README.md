@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a0c5e0&height=120&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2b6088&height=120&section=header)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=A0C5E0&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;mostly+making+Roblox+games+now;jeb_;Specialist+Technician+by+day;agents+building+while+I+sleep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2B6088&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;mostly+making+Roblox+games+now;jeb_;Specialist+Technician+by+day;agents+building+while+I+sleep)](https://git.io/typing-svg)
 
 </div>
 
@@ -72,7 +72,7 @@ Manage Active Directory from any browser, no VPN, no open ports. IT admins submi
 ## links
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysportfolio.netlify.app)
-[![romanum.dev](https://img.shields.io/badge/romanum.dev-A0C5E0?style=for-the-badge&logo=roblox&logoColor=0d1117)](https://romanum.dev)
+[![romanum.dev](https://img.shields.io/badge/romanum.dev-2B6088?style=for-the-badge&logo=roblox&logoColor=white)](https://romanum.dev)
 [![Web Dev](https://img.shields.io/badge/lachysweb.dev-555555?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysweb.dev)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lachyswebdev@gmail.com)
 
@@ -95,11 +95,11 @@ Manage Active Directory from any browser, no VPN, no open ports. IT admins submi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachydotmcg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=a0c5e0&title_color=a0c5e0&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lachydotmcg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=2b6088&title_color=2b6088&text_color=ffffff)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachydotmcg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a0c5e0&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lachydotmcg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2b6088&text_color=ffffff)
 
-![Streak](https://streak-stats.demolab.com/?user=lachydotmcg&theme=dark&hide_border=true&background=0d1117&ring=a0c5e0&fire=a0c5e0&currStreakLabel=a0c5e0)
+![Streak](https://streak-stats.demolab.com/?user=lachydotmcg&theme=dark&hide_border=true&background=0d1117&ring=2b6088&fire=2b6088&currStreakLabel=2b6088)
 
 </div>
 
@@ -111,4 +111,4 @@ Manage Active Directory from any browser, no VPN, no open ports. IT admins submi
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a0c5e0,100:0d1117&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2b6088,100:0d1117&height=80&section=footer)
