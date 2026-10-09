@@ -2,103 +2,92 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;Aspiring+AI+Engineer+from+Victoria;jeb_;running+agents+while+I+sleep;thinking+about+what%27s+next)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=D97745&center=true&vCenter=true&width=620&lines=g%27day%2C+I%27m+Lachy+%F0%9F%91%8B;mostly+making+Roblox+games+now;jeb_;Specialist+Technician+by+day;agents+building+while+I+sleep)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-Aspiring AI Engineer from Victoria. I build AI-powered tools - agents, SaaS, CLIs - mostly solo.
+<img src="rimuru.jpg" width="170" align="right" alt="Rimuru reaching out"/>
 
-See what I'm up to at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
+19, from the Mornington Peninsula in Victoria. By day I'm a Specialist Technician supporting Victorian schools. The rest of the time I build things, and these days that mostly means **Roblox games**.
+
+I also run [romanum.dev](https://romanum.dev), and I still tinker with AI tooling: model routing, agents, and the security side of shipping fast with AI.
+
+See everything at [lachysportfolio.netlify.app](https://lachysportfolio.netlify.app).
+
+<br clear="right"/>
 
 ---
 
 ## what I'm building
 
+### 🎮 Roblox games
+
+Most of my time goes here now. A few games in the works, built in code with Rojo and Luau, plus custom tooling so Claude can work inside Studio with me. More to show once they're playable.
+
+`Luau` `Rojo` `Roblox Studio` `Blender`
+
+---
+
+### <img src="https://raw.githubusercontent.com/lachydotmcg/metis-orchestrator/main/public/assets/readmeimages/logo.png" height="26" align="center" alt=""/> [Metis Orchestrator](https://github.com/lachydotmcg/metis-orchestrator)
+
+Local-first AI orchestration studio. Put every model you have on one canvas and decide which one plans, which writes the frontend and which you never send private code to. Turn on Depths and each node becomes a ladder: cheap or local models take the easy turns, and only the hard ones reach your strongest model. Runs on your machine, on your keys, no account.
+
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/lachydotmcg/metis-orchestrator/main/public/assets/readmeimages/Orchestration.png" width="400" alt="Orchestration canvas"/><br/><sub>Orchestration canvas</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/lachydotmcg/metis-orchestrator/main/public/assets/readmeimages/depths.png" width="400" alt="Depths ladder"/><br/><sub>Depths</sub></td>
+  </tr>
+</table>
+
+`TypeScript` `Electron` `React` `Ollama` `OpenRouter`
+
+---
+
+### 🛡️ [slopsec](https://github.com/lachydotmcg/slopsec) · ⭐ 24
+
+A Claude Code skill that security-audits vibe-coded SaaS apps. 50 common ways AI-generated apps get owned, turned into a repeatable checklist with P0 to P3 severity scoring and a findings report. Built because a freshly launched app got probed within 3 hours of going live.
+
+`Claude Code skill` `Security`
+
+---
+
 ### <img src="screenshots/ad-helpdesk.png" height="26" align="center" alt=""/> [AID Helpdesk](https://github.com/lachydotmcg/ad-helpdesk)
 
-Manage Active Directory from any browser - no VPN, no open ports. IT admins submit helpdesk requests in plain English; the built-in AI assistant (Claude Haiku, named Janus) resolves them automatically. A Windows agent polls outbound HTTPS so it works behind any NAT. Built for schools and SMBs.
+Manage Active Directory from any browser, no VPN, no open ports. IT admins submit helpdesk requests in plain English and the built-in assistant (Claude Haiku, named Janus) resolves them automatically. A Windows agent polls outbound HTTPS so it works behind any NAT. Built for schools and SMBs.
 
 <table>
   <tr>
     <td align="center"><img src="screenshots/dashboard-ad.png" width="250" alt="Dashboard"/><br/><sub>Dashboard</sub></td>
-    <td align="center"><img src="screenshots/assistant-ad.png" width="250" alt="Janus - AI Assistant"/><br/><sub>Janus - AI Assistant</sub></td>
+    <td align="center"><img src="screenshots/assistant-ad.png" width="250" alt="Janus, AI Assistant"/><br/><sub>Janus, AI Assistant</sub></td>
     <td align="center"><img src="screenshots/ticket-ad.png" width="250" alt="Auto-resolve ticket"/><br/><sub>Auto-resolve ticket</sub></td>
   </tr>
 </table>
 
-`Python` `Flask` `PostgreSQL` `Claude Haiku` `WinRM` `Railway`
-
----
-
-### <img src="screenshots/pheme.png" height="26" align="center" alt=""/> [Pheme](https://github.com/lachydotmcg/pheme) · [phemenews.netlify.app](https://phemenews.netlify.app)
-
-Self-hosted AI news scheduler. Pick your topics and a cron schedule, get grounded daily digests delivered to your terminal, a file, or your inbox. Powered by Gemini with Google Search grounding, sourced and current. Named after the Greek goddess of rumour and news.
-
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/pheme-digest.png" width="250" alt="News digest"/><br/><sub>Daily digest</sub></td>
-    <td align="center"><img src="screenshots/pheme-topics.png" width="250" alt="Topic creation"/><br/><sub>Automated topic creation</sub></td>
-    <td align="center"><img src="screenshots/pheme-landing.png" width="250" alt="Dashboard"/><br/><sub>Dashboard</sub></td>
-  </tr>
-</table>
-
-`TypeScript` `Node.js` `Gemini` `nodemailer`
-
----
-
-### <img src="screenshots/argus.png" height="26" align="center" alt=""/> [Argus](https://github.com/lachydotmcg/argus) · [Argus MCP](https://github.com/lachydotmcg/argus-mcp) · [Supargus](https://supargus.netlify.app)
-
-Self-OSINT footprint scanner. Checks your username across 28 platforms asynchronously, then runs Gemini 2.0 Flash with live Google Search grounding to surface web intelligence about your digital presence. Outputs a standalone dark-themed HTML report. Scan yourself before someone else does.
-
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/Dashboard-argus.png" width="520" alt="Argus HTML report"/><br/><sub>HTML report</sub></td>
-  </tr>
-</table>
-
-`Python` `asyncio` `aiohttp` `Gemini` `Rich`
-
----
-
-### [AI Command Center](https://github.com/lachydotmcg/aid-command-center)
-
-Local Node.js server + Discord bot for managing all my Claude Code agents from anywhere, including mobile, via Cloudflare tunnel. Reads from Obsidian so agents share context across sessions. Yes, this actually happened:
-
-<table>
-  <tr>
-    <td align="center"><img src="screenshots/cheeky-acc.png" width="520" alt="Jarvis sends a cheeky monkey GIF after deleting its instructions file"/><br/><sub>Jarvis being Jarvis (it deleted its own instructions file - false alarm)</sub></td>
-  </tr>
-</table>
-
-`Node.js` `Express` `Discord.js` `Cloudflare Tunnel` `Obsidian`
+`Python` `Flask` `PostgreSQL` `Claude Haiku` `WinRM`
 
 ---
 
 ## links
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysportfolio.netlify.app)
+[![romanum.dev](https://img.shields.io/badge/romanum.dev-D97745?style=for-the-badge&logo=roblox&logoColor=white)](https://romanum.dev)
 [![Web Dev](https://img.shields.io/badge/lachysweb.dev-555555?style=for-the-badge&logo=netlify&logoColor=white)](https://lachysweb.dev)
-[![Pheme](https://img.shields.io/badge/phemenews.netlify.app-D97745?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phemenews.netlify.app)
-[![Argus](https://img.shields.io/badge/argus-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachydotmcg/argus)
-[![Pheme CLI](https://img.shields.io/badge/pheme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachydotmcg/pheme)
-[![AID Helpdesk](https://img.shields.io/badge/aid--helpdesk-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachydotmcg/ad-helpdesk)
 [![Email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lachyswebdev@gmail.com)
 
 ---
 
 ## stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-000000?style=flat&logo=robloxstudio&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 
 ---
 
@@ -118,9 +107,7 @@ Local Node.js server + Discord bot for managing all my Claude Code agents from a
 
 <div align="center">
 
-<img src="clawde-wave.gif" width="160" alt="Clawde waving"/>
-
-*Cert IV IT · Mornington Peninsula · building toward AI engineering*
+*Specialist Technician · Mornington Peninsula · making games*
 
 </div>
 
